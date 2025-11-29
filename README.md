@@ -93,3 +93,8 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 
 Contributions, issues, and feature requests are welcome!  
 Feel free to open a pull request or report a bug via the [issues page](https://github.com/mehdi-tootkar/Java-Halma-Board-Game/issues).
+
+
+---
+
+**Developer:** Mehdi Tootkar Bidarigh
